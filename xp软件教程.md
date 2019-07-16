@@ -28,4 +28,4 @@ jiegou
 
 ## c
 
-# 之后用adobe acrobat打开。
+# 之后用adobe acrobat DC打开。
