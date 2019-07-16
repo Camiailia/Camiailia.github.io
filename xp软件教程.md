@@ -1,5 +1,5 @@
 # camiailia.github.io
-#将单晶文件的.res文件复制到xp.exe同文件夹#
+*将单晶文件的.res文件复制到xp.exe同文件夹#
 
 ##read 文件名
 
