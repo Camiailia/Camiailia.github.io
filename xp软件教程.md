@@ -1,13 +1,13 @@
 # camiailia.github.io
-将单晶文件的.res文件复制到xp.exe同文件夹#
+#将单晶文件的.res文件复制到xp.exe同文件夹#
 
-read 文件名
+##read 文件名
 
-fmol
+###fmol
 
-kill $q $h
+###kill $q $h
 
-proj（调整位置）
+###proj（调整位置）
 
 pick （删除不要的原子）（space下一个，enter删除，backspace撤回）
 
